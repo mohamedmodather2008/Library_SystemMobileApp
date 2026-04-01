@@ -1,16 +1,98 @@
-# revitionnn
+# 📚 Library System Mobile App (Flutter)
 
-A new Flutter project.
+## 📌 Overview
 
-## Getting Started
+This is a **Library System Mobile Application** built using Flutter.
+The app allows users to browse books, search easily, and view detailed information about each book.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔐 Authentication
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Login & Sign Up**
+* Users can create a new account or log into an existing one.
+* After successful authentication, users are redirected to the Home Page.
+
+---
+
+### 🏠 Home Page
+
+* Displays a list of all available books.
+* Clean and simple UI for easy browsing.
+
+---
+
+### 🔍 Search Functionality
+
+* A search text field is available at the top.
+* Users can type **any letter** from a book name.
+* The app dynamically shows all books containing that letter.
+
+---
+
+### 📖 Book Details
+
+* Users can tap on any book.
+* Navigates to a **Details Page**.
+* Displays:
+
+  * Book Title
+  * Author
+  * Price
+  * Rating
+
+---
+
+## 🛠️ Tech Stack
+
+* Flutter
+* Dart
+
+---
+
+## 📱 Screens
+
+* Login Screen
+* Sign Up Screen
+* Home Screen
+* Book Details Screen
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+2. Navigate to the project:
+
+```bash
+cd your-repo-name
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+4. Run the app:
+
+```bash
+flutter run
+```
+
+##
+
+---
+
+## 👨‍💻 Author
+
+Mohamed Modather
+
+---
